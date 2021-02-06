@@ -1,6 +1,6 @@
-# Polygon_kml_maker
-# Perl script "polymaker.pl"
-# version 1.0 (Sep. 2015)
+Polygon_kml_maker
+Perl script "polymaker.pl"
+version 1.0 (Sep. 2015)
 #
 # The followings are brief description in Japanese (UTF-8).
 #
