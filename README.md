@@ -2,6 +2,10 @@ Polygon_kml_maker
 Perl script "polymaker.pl"
 version 1.0 (Sep. 2015)
 
+Python script "polymaker.py"
+version 1.0 (Sep. 2015)
+
+
  The followings are brief description in Japanese (UTF-8).
 
 このPerlスクリプトは、経度、緯度、値の３列のcsvデータを読み込み、
